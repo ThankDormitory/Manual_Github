@@ -30,9 +30,9 @@ git config --global user.email "ykykykyk@gmail.com"
   <img src="./image/3.PNG">
 </p>
 
-5. Git 상태를 확인하기 위한 작업
+5. Git 상태를 확인하기 위한 작업 (lsit -> list 변경)
 ```
-git config --list // 오류 수정 
+git config --list
 ```
 <p align="center">
   <img src="./image/4.PNG">
