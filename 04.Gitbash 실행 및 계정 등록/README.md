@@ -32,7 +32,7 @@ git config --global user.email "ykykykyk@gmail.com"
 
 5. Git 상태를 확인하기 위한 작업
 ```
-git config --lsit
+git config --list // 오류 수정 
 ```
 <p align="center">
   <img src="./image/4.PNG">
